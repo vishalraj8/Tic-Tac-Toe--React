@@ -36,8 +36,15 @@
     cursor: pointer;
 }
 .board{
-    height: 560px;
+    height: 600px;
     width: 560px;
     display: flex;
     margin:auto ;
+}
+.boxes img{
+    margin: 25px;
+}
+.title{
+    padding: 20px;
+    height: 50px;
 }
