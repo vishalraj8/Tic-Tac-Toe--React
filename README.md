@@ -26,6 +26,12 @@ Welcome to the React Tic Tac Toe project! This is a simple implementation of the
 * If the board is filled and no player has won, the game ends in a draw.
 
 
+## Screenshots
 
+Here is a screenshot of the game:
+![Webpage Screenshot](https://github.com/vishalraj8/tic-tac-toe--React/blob/main/src/components/Screenshots/Screenshot%20(28).png)
+
+Win screen:
+![Webpage Screenshot](https://github.com/vishalraj8/tic-tac-toe--React/blob/main/src/components/Screenshots/Screenshot%20(29).png)
 
 
