@@ -24,3 +24,13 @@ Welcome to the React Tic Tac Toe project! This is a simple implementation of the
 * Players take turns to place their "X" or "O" on an empty square.
 * The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
 * If the board is filled and no player has won, the game ends in a draw.
+
+
+## Screenshots
+
+Here is a screenshot of the game:
+![Webpage Screenshot](D:\first react project\Screenshots\Screenshot (28).png)
+
+win screen:
+![Webpage Screenshot](D:\first react project\Screenshots\Screenshot (29).png)
+
