@@ -31,6 +31,4 @@ Welcome to the React Tic Tac Toe project! This is a simple implementation of the
 Here is a screenshot of the game:
 ![Webpage Screenshot](D:\first react project\Screenshots\Screenshot (28).png)
 
-win screen:
-![Webpage Screenshot](D:\first react project\Screenshots\Screenshot (29).png)
 
